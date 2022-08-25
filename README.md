@@ -5,10 +5,10 @@
 
 ## 🔗 Links to Website
 
- - Subscribe Page -- http://xkcd.mayankkhurmai.in/subscribe
- - Unsubscribe Page -- http://xkcd.mayankkhurmai.in/unsubscribe
- - Admin Panel Page -- http://xkcd.mayankkhurmai.in/admin
- - Create all Tables -- http://xkcd.mayankkhurmai.in/admin-configure-db
+ - Subscribe Page -- http://xkcd.sharmaishu2000.in/subscribe
+ - Unsubscribe Page -- http://xkcd.sharmaishu2000.in/unsubscribe
+ - Admin Panel Page -- http://xkcd.sharmaishu2000.in/admin
+ - Create all Tables -- http://xkcd.sharmaishu2000.in/admin-configure-db
 
 
 
